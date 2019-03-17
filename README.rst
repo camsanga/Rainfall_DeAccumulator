@@ -19,7 +19,9 @@ Running the Code
 Assumptions
 ===========
 1. Since the whole data set is 1hr running total, I assumed that the measuring device is running for 40 seconds for every observation
-2. Each observartion is the total amount of rainwater collected within the 40 second window and is measured in Inches
+
+2. Each observartion is the total amount of rainwater collected within the 40 second window and is measured in Inches therefore the de accumulated points can be modelled by an ascending set of numbers leading up to the observation.
+
 3. When rainfall is being measured, the rate at which the water fills the measuring device is not constant every second since rain intensity can vary
 
 
