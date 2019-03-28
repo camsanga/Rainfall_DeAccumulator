@@ -63,6 +63,6 @@ Other Notes
 1. The unit of the values is measured in Inches
 2. For New datasets simply copy the new data files to the input folder and run the script again (assumming that it is in the same format as accumRainfall.csv)
 3. Deaccumulator.py is an obsolete script and this outputs the incorrect values for each observation. Instead this scripts outputs the rainfall data while it is being observed. 
-4. In order to accurately predict the unobserved data, more data is required such as the exact location of the observation site, the cloud formation and location data for that site and the temperature. 
+4. In order to accurately predict the unobserved data, more data is required such as the exact location of the observation site, the cloud formation and location data for that site and the temperature of the site. 
 
 
