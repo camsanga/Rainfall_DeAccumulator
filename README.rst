@@ -50,8 +50,8 @@ Running the Code
 
 1. Create a virtual environment
 2. run "pip install numpy" and "pip install pandas" in the virtual environment
-3. copy input data to the inputs folder in \Rainfall_DeAccumulator\src\rainfall_deaccumulator\Inputs such as accumRainfall.csv
-4. navigate to Rainfall_DeAccumulator\src\rainfall_deaccumulator with the console and run the DeaccumulatorV2.py scipt
+3. copy input data to the inputs folder in \ Rainfall_DeAccumulator\src\rainfall_deaccumulator\Inputs such as accumRainfall.csv
+4. navigate to Rainfall_DeAccumulator \ src \ rainfall_deaccumulator with the console and run the DeaccumulatorV2.py scipt
 5. When the script finishes the peak 30min period should be printed on the console
 6. Navigate to the Outputs folder in  Rainfall_DeAccumulator\src\rainfall_deaccumulator\Corrected_output and the deAccumulated data files should be listed
 
